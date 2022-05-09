@@ -1,0 +1,7 @@
+Lot 125854 Leszno Poznan 14.12.2020 12:00 100.00 Rainbow 5
+Rejs 523654 Cypr Moskwa 12.05.2031 13:57 2000.00 Sara
+
+Laczony 456789 3
+Lot 456789 Krakow Pekin 27.07.2020 7:56 500.00 Air 4
+Rejs 456789 Pekin Oslo 30.07.2020 9:54 600.00 Reni
+Lot 456789 Oslo Krakow 2.08.2020 6:34 400.00 Air 5

@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1605305350 source:c:\users\michal\desktop\studia\semestr 3\programowanie obiektowe\æwiczenia\projekt1\main.cpp
+	<iostream>
+
+1605188406 source:c:\users\michal\desktop\studia\semestr 3\programowanie obiektowe\æwiczenia\projekt1\projekt.cpp
+	<iostream>
+	<cstdlib>
+	"projekt.h"
+
+1605188406 c:\users\michal\desktop\studia\semestr 3\programowanie obiektowe\æwiczenia\projekt1\projekt.h
+	<iostream>
+
+1605257735 source:c:\users\michal\desktop\studia\semestr 3\programowanie obiektowe\æwiczenia\projekt1\bilet.cpp
+	"Bilet.h"
+
+1605261767 source:c:\users\michal\desktop\studia\semestr 3\programowanie obiektowe\æwiczenia\projekt1\laczony.cpp
+	"Laczony.h"
+
+1605261791 source:c:\users\michal\desktop\studia\semestr 3\programowanie obiektowe\æwiczenia\projekt1\rejs.cpp
+	"Rejs.h"
+
+1605268520 c:\users\michal\desktop\studia\semestr 3\programowanie obiektowe\æwiczenia\projekt1\bilet.h
+	<iostream>
+	<fstream>
+
+1605445850 source:c:\users\michal\desktop\studia\semestr 3\programowanie obiektowe\æwiczenia\projekt1\baza.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<fstream>
+	"Bilet.h"
+	"Lot.h"
+	"Rejs.h"
+	"Laczony.h"
+
+1605261791 source:c:\users\michal\desktop\studia\semestr 3\programowanie obiektowe\æwiczenia\projekt1\lot.cpp
+	"Lot.h"
+
+1605261791 c:\users\michal\desktop\studia\semestr 3\programowanie obiektowe\æwiczenia\projekt1\lot.h
+	"Bilet.h"
+
+1605261749 c:\users\michal\desktop\studia\semestr 3\programowanie obiektowe\æwiczenia\projekt1\rejs.h
+	"Bilet.h"
+
+1605445121 c:\users\michal\desktop\studia\semestr 3\programowanie obiektowe\æwiczenia\projekt1\laczony.h
+	"Bilet.h"
+	<vector>
+	<memory>
+
